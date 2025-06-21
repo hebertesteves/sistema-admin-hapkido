@@ -121,9 +121,3 @@ sistema-admin-hapkido/
 Este é um projeto educacional desenvolvido para fins acadêmicos como parte do TCC do curso técnico em Desenvolvimento de Sistemas da Etec Raposo Tavares. Livre para uso e estudo com os devidos créditos.
 
 ---
-
-## ✨ Desenvolvido por
-
-<p align="center"><b>Grupo do Projeto Hapkido Social</b><br>
-Curso Técnico em Desenvolvimento de Sistemas – Etec Raposo Tavares
-</p>
